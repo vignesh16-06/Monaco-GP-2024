@@ -29,3 +29,17 @@ A Python-based motorsport analytics project that recreates key performance engin
 ## Project Goal
 
 To demonstrate practical applications of motorsport data analysis, race engineering concepts, vehicle performance evaluation, and data visualization techniques commonly used in professional racing environments.
+🏁 Future Improvements
+Interactive dashboards using Plotly
+Real telemetry data integration
+Machine learning race pace prediction
+Pit strategy optimization models
+Formula Student and Motorsport Engineering applications
+Vehicle dynamics performance modelling
+👨‍💻 Author
+
+Vignesh S
+
+Motorsport Engineering Enthusiast | Mechatronics Engineer | Aspiring Performance & Race Engineer
+
+Focused on motorsport data analysis, vehicle dynamics, race strategy, telemetry engineering, and performance optimization.
